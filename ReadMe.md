@@ -1,0 +1,2 @@
+Burada yapmayı amaçladığım şey okuduğum kitaplar veya internette bulduğum kodları kendimce Pseudo-Kaba koda çevirip sıfırdan kendim kodlamak. 
+Hedef: Algoritma mantığını geliştirmek, Temiz ve verimli kod yazabilmek.
